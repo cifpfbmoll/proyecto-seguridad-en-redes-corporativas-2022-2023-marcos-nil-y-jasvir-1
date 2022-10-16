@@ -28,4 +28,4 @@
 
 -Configuración del entorno (Caducidad y cambio de contraseña, Timeout de inactividad, Bloqueo de cuenta tras varios intentos, etc)
 
-## Actualizaciones de software.##
+## Actualizaciones de software. ##
